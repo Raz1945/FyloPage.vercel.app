@@ -17,7 +17,7 @@
 }
 
 .comillas {
-  background-image: url(/public\images\bg-quotes.png);
+  background-image: url(\images\bg-quotes.png);
   background-position: 6.5rem 3.2rem;
   /* background-position: 6.5rem 0.2rem; */
   background-repeat: no-repeat;
