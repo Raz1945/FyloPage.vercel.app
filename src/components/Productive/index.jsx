@@ -1,10 +1,11 @@
+import { images } from "../../assets/images";
 import "./css/style.css"
 export const Productive = () => {
     return (
         <>
             <main className="productive-wrapper" id="team-ref">
                 <div className="productive-container__left">
-                    <img src="public/images/illustration-stay-productive.png" alt="Imagen" className="productive__img" />
+                    <img src={images.stay_productive} alt="Imagen" className="productive__img" />
                 </div>
                 <div className="productive-container__right">
                     <h1 className="productive__title">Stay productive, wherever you are</h1>

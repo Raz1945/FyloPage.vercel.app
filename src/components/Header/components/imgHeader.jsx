@@ -1,8 +1,10 @@
+import { images } from "../../../assets/images";
+
 export const HeaderImg = () => {
     return (
         <>
             <img
-                src="/public/images/illustration-intro.png"
+                src={images.intro}
                 alt="Imagen ilustrativa"
                 className="header__img"
             />

@@ -2,8 +2,8 @@ import { Logo } from "./components/logoFooter";
 import { Item } from "./components/itemFooter";
 import { LitaDeEnlaces } from "./components/listasDeEnlaceFooter";
 import { Redes } from "./components/redesFooter";
-import "./css/style.css"
 import { icons } from "../../assets/icons";
+import "./css/style.css"
 
 export const Footer = () => (
     <>
