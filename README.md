@@ -1,6 +1,6 @@
 # 'Fylo Dark Theme Landing Page'
 
-🚀 It's another Frontend Mentor challenge with some modifications. It's a perfect training ground to practice your Flexbox and/or Grid skills.
+🚀 It's another Frontend Mentor challenge with some modifications. It is a perfect training ground to practice Flexbox and/or Grid skills.
 
 🖥️ Desktop Preview 
 ![Desktop Preview](https://github.com/Raz1945/FyloPage.vercel.app/assets/109112528/dd6051ff-90db-4cd4-865b-a6fd3cfb3678)
